@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except .cpp files and .gitignore itself
+!*.cpp
+!.gitignore
+
+# VSCode settings
+.vscode/
